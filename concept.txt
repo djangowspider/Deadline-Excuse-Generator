@@ -1,0 +1,2 @@
+# Quick Thoughts
+Format all source code files with Prettier
